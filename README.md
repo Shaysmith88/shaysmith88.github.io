@@ -1,7 +1,7 @@
 # Shaylea Smith
 ##Welcome to My Proile
 
-Personal Information
+#Personal Information
 
 Shaylea Smith
 Student #: s3795647
@@ -22,3 +22,21 @@ Email: s3795647@student.rmit.edu.au
 
 
 ###What do you expect to learn during your studies?
+
+# Ideal Job
+
+
+# Personal Profile
+
+Myers-Briggs Test Result:
+Learning Style Test Result:
+Personality Test Result:
+
+What do the results of these test mean for you?
+
+How do you think these results may influence your behaviour in a team?
+
+How should you take this into account when forming a team?
+
+
+# Project Idea
