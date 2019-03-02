@@ -33,7 +33,7 @@
 <h2>  Personal Profile
 
 <h3> <p> Myers-Briggs Test Result: </p>
-   ![image](https://user-images.githubusercontent.com/48013966/53680162-1c551b00-3d23-11e9-8a6d-a27677729d56.png)
+   https://github.com/Shaysmith88/shaysmith88.github.io/issues/1#issue-416380543
   <h3> <p> Learning Style Test Result: </p>
   <p>   </p>
 <h3> <p> Personality Test Result: </p>
