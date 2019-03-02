@@ -29,7 +29,27 @@
   
 <h2>  Ideal Job </h2>
 <h3> <p> Advertisment </p> </h3>
-<p>  </p>
+<p>Senior Business Analyst - MS Dynamics SCV</p>
+  <p>An excited long-term opportunity for a Senior Business Analyst – MS Dynamics SCV to join a leading Government organization on an enterprise wide integration. The successful candidate must have extensive experience working with Single Customer View, MS Dynamics, it’s configuration options, vendors and a strong stakeholder management. The project will focus on data migration, security and systems integration spanning over the next 2 years.</p>
+
+<p>Key Responsibilities. </p>
+<p>The IT Business Analyst will:</p>
+<p>- Build business cases for the inception of the project and help steer the Project Manager in delivery</p>
+<p>- Conduct and facilitate requirements gathering with both business and technical stakeholders</p>
+<p>- Developing business requirements documents and other project artefacts</p>
+<p>- Creating process maps and designing the as/is to/be processes</p>
+<p>- Co-ordinate and manage the UAT and test plans</p>
+<p>- Support in vendor decision making</p>
+
+
+<p>Key Requirements</p>
+<p>The IT Business Analyst will have:</p>
+<p>- 10+ years formal Business Analyst experience</p>
+<p>- 6+ years’ experience with Microsoft Dynamics and it’s configuration options</p>
+<p>- Single Customer View experience is mandatory</p>
+<p>- Outstanding verbal, written and presentation skills</p>
+<p>- Prior Government experience is highly desired </p>
+<p>- Industry relevant certifications as well as technical qualifications </p>
 
 <h3> <p> Description of Position </p> </h3>
 <p> </p>
