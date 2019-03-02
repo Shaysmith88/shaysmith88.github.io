@@ -39,7 +39,29 @@ Role: Sentinel
      Strategy: People Mastery </p>
 
   <h3> <p> Learning Style Test Result: </p>
-  <p>   </p>
+  <p> Your Scores:
+
+Auditory: 25%
+Visual: 50%
+Tactile: 25%
+You are a Visual learner! Check out the information below, or view all of the learning styles.
+
+Visual
+If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning.
+
+As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery.
+
+Here are some things that visual learners like you can do to learn better:
+
+Sit near the front of the classroom. (It won't mean you're the teacher's pet!)
+Have your eyesight checked on a regular basis.
+Use flashcards to learn new words.
+Try to visualize things that you hear or things that are read to you.
+Write down key words, ideas, or instructions.
+Draw pictures to help explain new concepts and then explain the pictures.
+Color code things.
+Avoid distractions during study times.
+Remember that you need to see things, not just hear things, to learn well.  </p>
 <h3> <p> Personality Test Result: </p>
   <p>   </p>
 
