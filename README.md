@@ -27,10 +27,10 @@
   
   
   
-<h2>  Ideal Job </h>
+<h2>  Ideal Job </h2>
 
 
-<h2>  Personal Profile </h>
+<h2>  Personal Profile </h2>
 
 <h3> <p> Myers-Briggs Test Result: </p> </h3>
    <p> Personality type: “The Consul” (ESFJ-A)
