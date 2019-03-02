@@ -48,9 +48,9 @@ Role: Sentinel
 
 <p> As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery. </p>
 
-<h3> <p> Personality Test Result: </p>
-  <p>  Textual summary of your report </p>
-< p> The Big Five Factors	Describing a low range scoring person...	Percentile	Range	Describing a high range scoring person... </p>
+<h3> <p> Personality Test Result: </p> </h3>
+  <p> Textual summary of your report </p>
+<p> The Big Five Factors	Describing a low range scoring person...	Percentile	Range	Describing a high range scoring person... </p>
 <p> Openness to experience - Traditionalist • down-to-earth • practical • conservative	27	Low	Imaginative • open-minded • experimental </p>
 <p> Conscientiousness (Work Ethic) -Spontaneous • organised • prefers flexible plans	98	Very high	Conscientious • disciplined • efficient • well organised </p>
 <p> Extraversion - Reserved • formal • serious • quiet	88	High	Outgoing • friendly • assertive • likes working with others </p>
