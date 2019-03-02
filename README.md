@@ -14,15 +14,15 @@
 <p> I enjoy spendin my free time with my family and visiting my husbands family in South Australia, which we have driven 3 times now and back but can not wait for the kids to be older to be able to enjoy it more and see the marvelous sites the trip has to offer and remember them. </P>
 
 
-<h2>  Interest in IT 
+<h2>  Interest in IT </h2>
 
-<h3> What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any) 
+<h3> What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any) </h3>
   <p>    </p>
   
-<h3> Why did you choose to come to RMIT? 
+<h3> Why did you choose to come to RMIT? </h3>
   <p>   </p>
 
-<h3> What do you expect to learn during your studies? 
+<h3> What do you expect to learn during your studies? </h3>
   <p>   </p>
   
   
@@ -32,46 +32,32 @@
 
 <h2>  Personal Profile </h>
 
-<h3> <p> Myers-Briggs Test Result: </p> </h>
+<h3> <p> Myers-Briggs Test Result: </p> </h3>
    <p> Personality type: “The Consul” (ESFJ-A)
 Individual traits: Extraverted – 81%, Observant – 77%, Feeling – 64%, Judging – 97%, Assertive – 56%
 Role: Sentinel
      Strategy: People Mastery </p>
 
-  <h3> <p> Learning Style Test Result: </p> </h>
-  <p> Your Scores:
+  <h3> <p> Learning Style Test Result: </p> </h3>
+  <p> Your Scores:</p>
+<p> Auditory: 25%   Visual: 50%   Tactile: 25% </p>
+<p> You are a Visual learner! Check out the information below, or view all of the learning styles. </p>
 
-Auditory: 25%
-Visual: 50%
-Tactile: 25%
-You are a Visual learner! Check out the information below, or view all of the learning styles.
+<p> Visual </p>
+<p> If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning. </p>
 
-Visual
-If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning.
+<p> As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery. </p>
 
-As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery.
-
-Here are some things that visual learners like you can do to learn better:
-
-Sit near the front of the classroom. (It won't mean you're the teacher's pet!)
-Have your eyesight checked on a regular basis.
-Use flashcards to learn new words.
-Try to visualize things that you hear or things that are read to you.
-Write down key words, ideas, or instructions.
-Draw pictures to help explain new concepts and then explain the pictures.
-Color code things.
-Avoid distractions during study times.
-Remember that you need to see things, not just hear things, to learn well.  </p>
 <h3> <p> Personality Test Result: </p>
   <p>   </p>
 
-<h3> What do the results of these test mean for you? </h>
+<h3> What do the results of these test mean for you? </h3>
   <p>   </p>
   
-<h3> How do you think these results may influence your behaviour in a team? </h>
+<h3> How do you think these results may influence your behaviour in a team? </h3>
   <p>   </p>
   
-<h3> How should you take this into account when forming a team? </h>
+<h3> How should you take this into account when forming a team? </h3>
   <p>   </p>
 
-<h2>  Project Idea </h>
+<h2>  Project Idea </h2>
