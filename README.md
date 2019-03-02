@@ -11,32 +11,32 @@
 
 <p> I also have my own hobby business which I bake and decorate custom cakes for clients. I help my dad and sister run their own businesses as well, I usually help with the IT stuff and anything else they need. I also manage my sons football team "Go Eagles" which consists of twelve 9 year old boys I love watchin them grow and learn so many skills. I try to attend the gym 6 nights a week to keep fit and healthy. My work colleges called me the modern day super Woman when they heard I was also adding a University degree to my already hectic life, but I love a challenge. </p>
 
-<p> I enjoy spendin my free time with my family and visiting my husbands family in South Australia, which we have driven 3 times now and back but can not wait for the kids to be older to be able to enjoy it more and see the marvelous sites the trip has to offer and remember them.</P>
+<p> I enjoy spendin my free time with my family and visiting my husbands family in South Australia, which we have driven 3 times now and back but can not wait for the kids to be older to be able to enjoy it more and see the marvelous sites the trip has to offer and remember them. </P>
 
 
 <h2> Interest in IT
 
-<h3> What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any)</p>
+<h3> What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any) </p>
 
-<h3> Why did you choose to come to RMIT?</p>
+<h3> Why did you choose to come to RMIT? </p>
 
 
-<h3> What do you expect to learn during your studies?</p>
+<h3> What do you expect to learn during your studies? </p>
 
 <h2> Ideal Job
 
 
 <h2> Personal Profile
 
-<p> Myers-Briggs Test Result:</p>
-<p>Learning Style Test Result:</p>
-<p>Personality Test Result:</p>
+<p> Myers-Briggs Test Result: </p>
+<p>Learning Style Test Result: </p>
+<p>Personality Test Result: </p>
 
-<h3> What do the results of these test mean for you?</p>
+<h3> What do the results of these test mean for you? </p>
 
-<h3> How do you think these results may influence your behaviour in a team?</p>
+<h3> How do you think these results may influence your behaviour in a team? </p>
 
-<h3> How should you take this into account when forming a team?</p>
+<h3> How should you take this into account when forming a team? </p>
 
 
 <h2> Project Idea
