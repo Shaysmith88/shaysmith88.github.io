@@ -28,6 +28,20 @@
   
   
 <h2>  Ideal Job </h2>
+<h3> <p> Advertisment </p> </h3>
+<p>  </p>
+
+<h3> <p> Description of Position </p> </h3>
+<p> </p>
+
+<h3> <p> Description of Skills, Qualifications and Experiences Needed </p> </h3>
+<p> </p>
+
+<h3> <p> Description of Skills, Qualifications and Experiences Currently Have </p> </h3>
+<p> </p>
+
+<h3> <p> Plan to Obtain Skills, Qualifications and Experince </p> </h3>
+<p> </p>
 
 
 <h2>  Personal Profile </h2>
@@ -67,3 +81,18 @@ Role: Sentinel
   <p> I should make myself aware of other people and the type of people I form a group with and avoid groups that are disorganised and with all extraverts as we may well just all clash.  </p>
 
 <h2>  Project Idea </h2>
+
+<h3> <p> Overview </p> </h3>
+<p> </p>
+
+<h3> <p> Description </p> </h3>
+<p> </p>
+
+<h3> <p> Tools and Technologies </p> </h3>
+<p> </p>
+
+<h3> <p> Skills Required </p> </h3>
+<p> </p>
+
+<h3> <p> Outcome </p> </h3>
+<p> </p>
