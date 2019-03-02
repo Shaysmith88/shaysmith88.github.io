@@ -17,13 +17,13 @@
 <h2>  Interest in IT </h2>
 
 <h3> What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any) </h3>
-  <p>    </p>
+  <p>  My intereest a\has always been there for everything IT and how things need IT for the world to progress and move forward. I guess my dad was the person that sparked my interest in IT when he showed me how Goole Ads work for his business and it just grew from there with wantin to improve his business in the IT world and makin it all that it could be. </p>
   
 <h3> Why did you choose to come to RMIT? </h3>
-  <p>   </p>
+  <p> I was recommended RMIT by my Student Advisor through Open University, so far I am happy with RMIT I have heard many good things and reat reviews about RMIT.  </p>
 
 <h3> What do you expect to learn during your studies? </h3>
-  <p>   </p>
+  <p> I expect to learn many thins and many skills to be able to proress my career to find my ideal job. I hope to learn more skills and knowledge about IT and how things work.  </p>
   
   
   
@@ -49,15 +49,21 @@ Role: Sentinel
 <p> As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery. </p>
 
 <h3> <p> Personality Test Result: </p>
-  <p>   </p>
+  <p>  Textual summary of your report </p>
+< p> The Big Five Factors	Describing a low range scoring person...	Percentile	Range	Describing a high range scoring person... </p>
+<p> Openness to experience - Traditionalist • down-to-earth • practical • conservative	27	Low	Imaginative • open-minded • experimental </p>
+<p> Conscientiousness (Work Ethic) -Spontaneous • organised • prefers flexible plans	98	Very high	Conscientious • disciplined • efficient • well organised </p>
+<p> Extraversion - Reserved • formal • serious • quiet	88	High	Outgoing • friendly • assertive • likes working with others </p>
+<p> Agreeableness - Hard-headed • sceptical • competitive • proud	73	High	Compassionate • eager to please • good natured </p>
+<p> Natural reactions - Not easily upset in stressful situations • relaxed	1	Very low	Experiences negative emotional reactions and feelings of anxiety • prone to worry </p>
 
 <h3> What do the results of these test mean for you? </h3>
-  <p>   </p>
+  <p> I belive these results indicate that I am a visual learner  that is well organised and that has a high work ethic and is disciplined, but hard headed as I like to take the lead. I am very observant extrovert but can get people to work together well.  </p>
   
 <h3> How do you think these results may influence your behaviour in a team? </h3>
-  <p>   </p>
+  <p> I think these results will make me more aware of the type of person I can be with takin over tasks and not letting everyone else have an opinion or voice. I think it will influence my behaviour by allowing people to contribute together instead of taking charge.   </p>
   
 <h3> How should you take this into account when forming a team? </h3>
-  <p>   </p>
+  <p> I should make myself aware of other people and the type of people I form a group with and avoid groups that are disorganised and with all extraverts as we may well just all clash.  </p>
 
 <h2>  Project Idea </h2>
