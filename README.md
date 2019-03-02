@@ -1,7 +1,7 @@
 # Shaylea Smith
 <h2> Welcome to My Profile
 
-<h2> Personal Information
+<h2> Personal Information </h>
 
 <p> Shaylea Smith </p>
 <p> Student #: s3795647 </p>
@@ -14,31 +14,31 @@
 <p> I enjoy spendin my free time with my family and visiting my husbands family in South Australia, which we have driven 3 times now and back but can not wait for the kids to be older to be able to enjoy it more and see the marvelous sites the trip has to offer and remember them. </P>
 
 
-<h2>  Interest in IT
+<h2>  Interest in IT </h>
 
-<h3> What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any)
+<h3> What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any) </h>
   <p>    </p>
   
-<h3> Why did you choose to come to RMIT?
+<h3> Why did you choose to come to RMIT? </h>
   <p>   </p>
 
-<h3> What do you expect to learn during your studies?
+<h3> What do you expect to learn during your studies? </h>
   <p>   </p>
   
   
   
-<h2>  Ideal Job
+<h2>  Ideal Job </h>
 
 
-<h2>  Personal Profile
+<h2>  Personal Profile </h>
 
-<h3> <p> Myers-Briggs Test Result: </p>
+<h3> <p> Myers-Briggs Test Result: </p> </h>
    <p> Personality type: “The Consul” (ESFJ-A)
 Individual traits: Extraverted – 81%, Observant – 77%, Feeling – 64%, Judging – 97%, Assertive – 56%
 Role: Sentinel
      Strategy: People Mastery </p>
 
-  <h3> <p> Learning Style Test Result: </p>
+  <h3> <p> Learning Style Test Result: </p> </h>
   <p> Your Scores:
 
 Auditory: 25%
@@ -65,13 +65,13 @@ Remember that you need to see things, not just hear things, to learn well.  </p>
 <h3> <p> Personality Test Result: </p>
   <p>   </p>
 
-<h3> What do the results of these test mean for you? 
+<h3> What do the results of these test mean for you? </h>
   <p>   </p>
   
-<h3> How do you think these results may influence your behaviour in a team? 
+<h3> How do you think these results may influence your behaviour in a team? </h>
   <p>   </p>
   
-<h3> How should you take this into account when forming a team? 
+<h3> How should you take this into account when forming a team? </h>
   <p>   </p>
 
-<h2>  Project Idea
+<h2>  Project Idea </h>
