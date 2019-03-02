@@ -1,7 +1,7 @@
 # **Shaylea Smith
 <h2> Welcome to My Proile
 
-<h2> ** Personal Information
+<h2> **Personal Information
 
 <p> Shaylea Smith </p>
 <p> Student #: s3795647 </p>
