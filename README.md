@@ -4,8 +4,8 @@
 <h2> Personal Information
 
 <p> Shaylea Smith </p>
-Student #: s3795647</p>
-Email: s3795647@student.rmit.edu.au</p>
+<p> Student #: s3795647 </p>
+<p> Email: s3795647@student.rmit.edu.au </p>
 
 <p> I am a 30 year old Australian born and breed have lived in a few different areas within Queensland but based in Ipswich with my husband and 2 children since 2009. I am a very busy person I work four days a week as a Principal Customer Service Officer at Department of Transport and Main Roads have been there since 2007 where I completed my Cert III in Business Administration. I take on many roles within the team which keeps me vey busy. </p>
 
