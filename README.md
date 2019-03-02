@@ -33,37 +33,8 @@
 <h2>  Personal Profile
 
 <h3> <p> Myers-Briggs Test Result: </p>
-  <p>  YOUR PERSONALITY TYPE IS:
-CONSUL (ESFJ-A)
-
-What is wrong with being liked?
-MIND
-This trait determines how we interact with our environment.
-81%
-EXTRAVERTED
-19%
-ENERGY
-This trait shows where we direct our mental energy.
-23%77%
-OBSERVANT
-NATURE
-This trait determines how we make decisions and cope with emotions.
-36%
-THINKING
-64%
-FEELING
-TACTICS
-This trait reflects our approach to work, planning and decision-making.
-97%
-JUDGING
-3%
-IDENTITY
-This trait underpins all others, showing how confident we are in our abilities and decisions.
-56%
-ASSERTIVE
-44%
-TURBULENT </p>
-<h3> <p> Learning Style Test Result: </p>
+   ![image](https://user-images.githubusercontent.com/48013966/53680162-1c551b00-3d23-11e9-8a6d-a27677729d56.png)
+  <h3> <p> Learning Style Test Result: </p>
   <p>   </p>
 <h3> <p> Personality Test Result: </p>
   <p>   </p>
