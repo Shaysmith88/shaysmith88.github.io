@@ -1,7 +1,7 @@
 # Shaylea Smith
 <h2> Welcome to My Profile
 
-<h2> Personal Information </h>
+<h2> Personal Information </h2>
 
 <p> Shaylea Smith </p>
 <p> Student #: s3795647 </p>
@@ -14,15 +14,15 @@
 <p> I enjoy spendin my free time with my family and visiting my husbands family in South Australia, which we have driven 3 times now and back but can not wait for the kids to be older to be able to enjoy it more and see the marvelous sites the trip has to offer and remember them. </P>
 
 
-<h2>  Interest in IT </h>
+<h2>  Interest in IT 
 
-<h3> What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any) </h>
+<h3> What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any) 
   <p>    </p>
   
-<h3> Why did you choose to come to RMIT? </h>
+<h3> Why did you choose to come to RMIT? 
   <p>   </p>
 
-<h3> What do you expect to learn during your studies? </h>
+<h3> What do you expect to learn during your studies? 
   <p>   </p>
   
   
