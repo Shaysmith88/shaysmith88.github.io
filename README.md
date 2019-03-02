@@ -16,27 +16,36 @@
 
 <h2> Interest in IT
 
-<h3> What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any) </p>
+<h3> What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any)
+  <p>  </p>
+  
+<h3> Why did you choose to come to RMIT?
+  <p>  </p>
 
-<h3> Why did you choose to come to RMIT? </p>
-
-
-<h3> What do you expect to learn during your studies? </p>
-
+<h3> What do you expect to learn during your studies?
+  <p>  </p>
+  
+  
+  
 <h2> Ideal Job
 
 
 <h2> Personal Profile
 
-<p> Myers-Briggs Test Result: </p>
-<p>Learning Style Test Result: </p>
-<p>Personality Test Result: </p>
+<h3> <p> Myers-Briggs Test Result: </p>
+  <p>  </p>
+<h3> <p> Learning Style Test Result: </p>
+  <p>  </p>
+<h3> <p> Personality Test Result: </p>
+  <p>  </p>
 
-<h3> What do the results of these test mean for you? </p>
-
-<h3> How do you think these results may influence your behaviour in a team? </p>
-
-<h3> How should you take this into account when forming a team? </p>
-
+<h3> What do the results of these test mean for you? 
+  <p>  </p>
+  
+<h3> How do you think these results may influence your behaviour in a team? 
+  <p>  </p>
+  
+<h3> How should you take this into account when forming a team? 
+  <p>  </p>
 
 <h2> Project Idea
