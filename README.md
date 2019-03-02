@@ -3,9 +3,9 @@
 
 <h2> Personal Information
 
-Shaylea Smith
-Student #: s3795647
-Email: s3795647@student.rmit.edu.au
+<p> Shaylea Smith </p>
+Student #: s3795647</p>
+Email: s3795647@student.rmit.edu.au</p>
 
 <p> I am a 30 year old Australian born and breed have lived in a few different areas within Queensland but based in Ipswich with my husband and 2 children since 2009. I am a very busy person I work four days a week as a Principal Customer Service Officer at Department of Transport and Main Roads have been there since 2007 where I completed my Cert III in Business Administration. I take on many roles within the team which keeps me vey busy. </p>
 
@@ -16,27 +16,27 @@ Email: s3795647@student.rmit.edu.au
 
 <h2> Interest in IT
 
-<h3> What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any)
+<h3> What is your interest in IT? When did your interest start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any)</p>
 
-<h3> Why did you choose to come to RMIT?
+<h3> Why did you choose to come to RMIT?</p>
 
 
-<h3> What do you expect to learn during your studies?
+<h3> What do you expect to learn during your studies?</p>
 
 <h2> Ideal Job
 
 
 <h2> Personal Profile
 
-Myers-Briggs Test Result:
-Learning Style Test Result:
-Personality Test Result:
+<p> Myers-Briggs Test Result:</p>
+<p>Learning Style Test Result:</p>
+<p>Personality Test Result:</p>
 
-<h3> What do the results of these test mean for you?
+<h3> What do the results of these test mean for you?</p>
 
-<h3> How do you think these results may influence your behaviour in a team?
+<h3> How do you think these results may influence your behaviour in a team?</p>
 
-<h3> How should you take this into account when forming a team?
+<h3> How should you take this into account when forming a team?</p>
 
 
 <h2> Project Idea
