@@ -67,6 +67,7 @@
 <h2>  Personal Profile </h2>
 
 <h3> <p> Myers-Briggs Test Result: </p> </h3>
+<!-- Image -->
 <im src="https://github.com/Shaysmith88/shaysmith88.github.io/issues/1#issue-416380543">
    <p> Personality type: “The Consul” (ESFJ-A)
 Individual traits: Extraverted – 81%, Observant – 77%, Feeling – 64%, Judging – 97%, Assertive – 56%
