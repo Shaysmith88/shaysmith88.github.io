@@ -68,7 +68,7 @@
 
 <h3> <p> Myers-Briggs Test Result: </p> </h3>
 <!-- Image -->
-![image](https://user-images.githubusercontent.com/48013966/53724882-9b2e8d00-3eb6-11e9-8819-7c206899cb7f.png)
+<![image](https://user-images.githubusercontent.com/48013966/53724882-9b2e8d00-3eb6-11e9-8819-7c206899cb7f.png)>
    <p> Personality type: “The Consul” (ESFJ-A)
 Individual traits: Extraverted – 81%, Observant – 77%, Feeling – 64%, Judging – 97%, Assertive – 56%
 Role: Sentinel
