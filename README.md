@@ -30,6 +30,7 @@
 <h2>  Ideal Job </h2>
 <h3> <p> Advertisment </p> </h3>
 <p>Senior Business Analyst - MS Dynamics SCV</p>
+<p> https://www.robertwalters.com.au/information-technology/jobs/businessanalyst/1261106-seniorbusinessanalyst-msdynamicsscv.html </p>
   <p>An excited long-term opportunity for a Senior Business Analyst – MS Dynamics SCV to join a leading Government organization on an enterprise wide integration. The successful candidate must have extensive experience working with Single Customer View, MS Dynamics, it’s configuration options, vendors and a strong stakeholder management. The project will focus on data migration, security and systems integration spanning over the next 2 years.</p>
 
 <p>Key Responsibilities. </p>
@@ -52,16 +53,21 @@
 <p>- Industry relevant certifications as well as technical qualifications </p>
 
 <h3> <p> Description of Position </p> </h3>
-<p> </p>
+<p> This position is for someone to build the business and cases and its process moving forward including supporting the business with developing processes and requirements with stakeholders.   </p>
 
 <h3> <p> Description of Skills, Qualifications and Experiences Needed </p> </h3>
-<p> </p>
+<p> 1. 10 + years experience in a BA role,
+2. Experience with MD and it's configuration options
+3. Outstanding communication in all aspects
+4. Government experience
+5. Industry qualifications
+</p>
 
 <h3> <p> Description of Skills, Qualifications and Experiences Currently Have </p> </h3>
-<p> </p>
+<p> I currently have Government experience  </p>
 
 <h3> <p> Plan to Obtain Skills, Qualifications and Experince </p> </h3>
-<p> </p>
+<p> My plan moving forward is to complete my degree, obtain some experience in the field as a BA and educate myself on MD and any other useful programs. </p>
 
 
 <h2>  Personal Profile </h2>
@@ -103,8 +109,10 @@ Role: Sentinel
 
 <h2>  Project Idea </h2>
 
+<p> Learning App for Children with Learning Difficulties </p>
+
 <h3> <p> Overview </p> </h3>
-<p> </p>
+<p>  </p>
 
 <h3> <p> Description </p> </h3>
 <p> </p>
