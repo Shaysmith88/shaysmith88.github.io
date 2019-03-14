@@ -56,18 +56,18 @@
 <p> This position is for someone to build the business and cases and its process moving forward including supporting the business with developing processes and requirements with stakeholders. Managing the test plans and supporting the vendor. Liase and assist project manager. Conduct and faciliate technical and business requirements.   </p>
 
 <h3> <p> Description of Skills, Qualifications and Experiences Needed </p> </h3>
-> 1. 10 + years experience in a BA role,
-> 2. Experience with MD and it's configuration options
-> 3. Outstanding communication in all aspects
-> 4. Government experience
-> 5. Industry qualifications
+> 1. 10 + years experience in a BA role, <
+> 2. Experience with MD and it's configuration options <
+> 3. Outstanding communication in all aspects <
+> 4. Government experience <
+> 5. Industry qualifications <
 
 
 <h3> <p> Description of Skills, Qualifications and Experiences Currently Have </p> </h3>
 <p> > I currently only have Government experience  </p>
-> Great Customer interacton
-> Ability to solve problems
-> Able to work with stakeholders to produce an outcome.
+> Great Customer interacton <
+> Ability to solve problems <
+> Able to work with stakeholders to produce an outcome. <
 
 <h3> <p> Plan to Obtain Skills, Qualifications and Experince </p> </h3>
 <p> My plan moving forward is to complete my degree, obtain some experience in the field as a BA and educate myself on MD and any other useful programs. </p>
